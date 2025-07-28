@@ -1,5 +1,5 @@
 
-# Fedora Linux System Command Cheatsheet
+# Fedora Linux Command Line Cheatsheet
 
 A complete, professional reference for Fedora Linux commands, from beginner to advanced.
 
